@@ -1,2 +1,2 @@
-# rwaida4-gmail.com
+# init-next
 init-next-material-ui
